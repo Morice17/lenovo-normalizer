@@ -1,0 +1,11 @@
+campaign_id,region,channel,target_audience,budget_usd
+NA-001,NA,Paid Social,"Core PC gamers interested in Legion, high refresh displays, thermal performance",65000
+NA-002,NA,YouTube,"Competitive FPS fans, esports content viewers, laptop GPU upgrade intenders",58000
+NA-003,NA,Search,"Gaming laptop for college, portability, battery life, student discounts",34000
+NA-004,NA,Creator Partnerships,"Twitch streamers and video editors needing one machine for work and ranked play",47000
+NA-005,NA,Paid Social,"18-24 Immersed Gamers, gaming 2+ hours per day, highly social and influenced by gaming communities, streamers, and esports",72000
+NA-006,NA,Programmatic,"Console players evaluating PC for the first time, drawn by Game Pass and ecosystem",28000
+NA-007,NA,YouTube,"Cloud gaming and casual multiplayer, low-friction gaming access through subscriptions",17000
+NA-008,NA,Reddit,"Ranked play enthusiasts focused on refresh rates, low latency, and tournament-grade hardware",24000
+NA-009,NA,Search,"University students balancing study and casual gaming on a budget",16000
+NA-010,NA,Creator Partnerships,"Content creators streaming and editing video on RTX laptops",31000

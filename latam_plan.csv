@@ -1,0 +1,11 @@
+campaign_id,region,channel,target_audience,budget_usd
+LA-001,LATAM,Paid Social,"Personas de 18 a 34 años, Intereses: PlayStation 5, Xbox Series X, Nintendo Switch, juegos de consola, FIFA, God of War, exclusivos de consola",42000
+LA-002,LATAM,Programmatic,"People Age 18-34, Interests: PlayStation, Xbox, FIFA, cross-platform gaming, console exclusives, Game Pass",38000
+LA-003,LATAM,Search,"Cloud gaming and casual multiplayer, low-friction gaming access, GeForce Now, Xbox Cloud",26000
+LA-004,LATAM,Retail Media,"Entry gaming laptop buyers, student gamers, value bundles, descuentos universitarios",19000
+LA-005,LATAM,Paid Social,"Jugadores de consola, PlayStation 5, Xbox Series X, FIFA, exclusivos de consola, gaming en casa",35000
+LA-006,LATAM,TikTok,"Personas de 18 a 24 años, intereses: videojuegos de acción, esports, League of Legends, Call of Duty, jugadores intensivos",29000
+LA-007,LATAM,Programmatic,"People Age 18-34, Interests: PlayStation, Xbox, console gaming, multiplayer, FIFA, Madden",33000
+LA-008,LATAM,Search,"Estudiantes universitarios, vida universitaria, laptops gaming económicas, descuentos estudiantiles",14000
+LA-009,LATAM,Paid Social,"Cross-platform gamers playing on PlayStation and considering PC Game Pass, affordable Legion entry models",22000
+LA-010,LATAM,YouTube,"Aspirantes a esports, jugadores competitivos, Counter-Strike, Valorant, League of Legends, torneos",18000
